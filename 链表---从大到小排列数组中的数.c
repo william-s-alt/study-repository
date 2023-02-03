@@ -65,16 +65,3 @@ void main()
     printf("\n");
 
 }
-//#include <stdio.h>
-//#include<stdlib.h>
-//#include <string.h>
-//#include <errno.h>
-//void main()
-//
-//{
-//	
-//
-//
-//	return 0;
-//}
-////}
